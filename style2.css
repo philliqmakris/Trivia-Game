@@ -1,0 +1,57 @@
+body {
+    background-image: url("https://i.imgur.com/iC0VAAQ.jpg") !important;
+    color: rgb(0, 0, 0) !important;
+    font-family: 'Indie Flower', cursive;
+    font-weight: bolder !important;
+    background-attachment: fixed;
+}
+
+.container {
+    background-color: rgb(59, 59, 59);
+    text-align: center !important;
+    border: solid !important;
+    border-color: white !important;
+    background-image: url("https://i.imgur.com/SaV01Zj.jpg") !important;
+}
+
+.navbar {
+    color: black !important;
+    text-align: center !important;
+    background-color: rgb(255, 255, 255) !important
+    
+}
+
+button {
+    margin: 25px !important;
+}
+
+.test {
+    font-size: 100px !important;
+    
+}
+
+input {
+    margin: 25px !important;
+    font-size: 100px !important;
+
+}
+
+#theCount {
+    text-align: center !important;
+}
+
+.ourTimer {
+   background-color: rgb(233, 233, 233);
+   padding: 5px;
+   
+   
+}
+
+.trump, .sac, .everest, .tree, .blues, .note, .edm, .state, .country, .cat {
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 50px !important;
+}
+
